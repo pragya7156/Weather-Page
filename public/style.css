@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.city{
+    background-color:rgb(231, 231, 241);
+    width: fit-content;
+    display: block;
+    margin:auto;
+    margin-top: 40px;
+    border-radius: 6px;
+}
+
+#btn{
+    padding: 2px;
+    margin:40px;
+    font-size: 25px;
+}
+#input{
+    padding: 2px;
+    margin: 40px;
+    font-size: 25px;
+}
+#show{
+    margin-top: 40px;
+    text-align: center;
+}
